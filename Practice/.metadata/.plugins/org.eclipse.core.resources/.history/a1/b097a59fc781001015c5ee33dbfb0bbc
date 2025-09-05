@@ -1,0 +1,6 @@
+package com.example.controller;
+
+@Rest
+public class TaskController {
+
+}
